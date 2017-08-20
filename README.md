@@ -1,1 +1,1 @@
-# OTJ-08202017
+# The Shepherd Journal
