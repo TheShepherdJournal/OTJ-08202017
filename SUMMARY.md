@@ -5,4 +5,5 @@
 * [Just Be Here](justbeheremd.md)
 ## Departments
 * [Submit a Story](Share.md)
+* [News Digest](newsdigest.md)
 

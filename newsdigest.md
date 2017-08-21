@@ -1,4 +1,4 @@
-# Digest
+# News Digest
 
 ## Eclipse watchers and bloggers needed
 
