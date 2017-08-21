@@ -6,4 +6,5 @@
 ## Departments
 * [Submit a Story](Share.md)
 * [News Digest](newsdigest.md)
+* [Calendar of Events](Calendar.md)
 
