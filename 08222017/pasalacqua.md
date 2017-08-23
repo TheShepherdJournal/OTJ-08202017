@@ -28,4 +28,4 @@ Any prayers/strength/thoughts for his Mom, for Joe, or for his family would be g
 
 PS: That is her bottom left eating her birthday cake…
 
-**Source: ****[Jay Gros**s](https://www.facebook.com/photo.php?fbid=10155325418013445&set=a.430012213444.235322.504923444&type=3&permPage=1)
+**Source: [Jay Gross](https://www.facebook.com/photo.php?fbid=10155325418013445&set=a.430012213444.235322.504923444&type=3&permPage=1)**
