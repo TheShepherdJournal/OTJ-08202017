@@ -14,5 +14,7 @@ Simply enter in a news announcement, information about an upcoming event, a thou
 
 If you want to reference news or an event but it is posted elsewhere, feel free to enter a description and then cite a URL or source.
 
+Add your story or comment on an existing story [inside the Google Docs version of this publication.](https://docs.google.com/document/d/16zKEo2zGg3uzQTXMztq4bf8_SgdxE5QvqI-pedtTbik/edit?usp=sharing)
+
 *News tips can also be emailed to [editor@shepherdhistory.org](mailto:editor@shepherdhistory.org)*
 
