@@ -1,6 +1,6 @@
 ## Art Walk Central
 
-**By ****[Shepherd High Schoo**l](https://www.facebook.com/shepherdmihs/)
+**By [Shepherd High School](https://www.facebook.com/shepherdmihs/)**
 
 Art Walk Central is an annual art competition and an art infusion that will take place August 3 - August 31, 2017. Viewing hours are Monday through Wednesday from 11 am until 5 pm, Thursday and Friday from noon to 6 pm and Saturday from 10 am until 4 pm.
 
@@ -14,4 +14,4 @@ Don't forget to vote!
 
 [http://www.artwalkcentral.com/artist_details?id=74](http://www.artwalkcentral.com/artist_details?id=74)
 
-**Source: ****[Shepherd High Schoo**l](https://www.facebook.com/shepherdmihs/posts/674651669396588)
+**Source: [Shepherd High School](https://www.facebook.com/shepherdmihs/posts/674651669396588)**
