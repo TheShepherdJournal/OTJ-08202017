@@ -9,6 +9,7 @@
 * [Self Defense Seminar](selfdefense.md)
 ### Departments
 * [Submit a Story](Share.md)
+* [Edit Google Doc](https://docs.google.com/document/d/16zKEo2zGg3uzQTXMztq4bf8_SgdxE5QvqI-pedtTbik/edit?usp=sharing)
 * [News Digest](newsdigest.md)
 * [Calendar of Events](Calendar.md)
 
