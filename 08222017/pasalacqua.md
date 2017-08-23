@@ -1,6 +1,6 @@
 ## Keep Joe Passalacqua's Mother in your thoughts
 
-![image alt text]({{ site.url }}/public/XFJKmONfbq4RfGoUcHr6vQ_img_0.png)
+![image alt text](/public/XFJKmONfbq4RfGoUcHr6vQ_img_0.png)
 
 **By Jay Gross**
 
