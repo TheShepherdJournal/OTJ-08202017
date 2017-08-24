@@ -1,4 +1,4 @@
-# On the Jaydar
+# On the Newsdar
 
 ## August 20, 2017
 
