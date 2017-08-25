@@ -1,6 +1,6 @@
-# On the Newsdar
+# The Shepherd Pulse
 
-## August 20, 2017
+## August 26, 2017
 
 ![](public/ekFuUMTD29eWDl5DIpZ8dQ_img_0.png)
 
