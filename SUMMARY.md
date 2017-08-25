@@ -1,6 +1,7 @@
 # Contents
 
 * [Cover](README.md)
+* [Google Docs](editgoogle.md)
 
 ## August 25, 2017
 
