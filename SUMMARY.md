@@ -4,11 +4,6 @@
 
 ## August 25, 2017
 
-## Departments
-
-* [Calendar of Events](Calendar.md)
-* 
-
 ## Archive
 
 * [Just Be Here](justbeheremd.md)
@@ -18,4 +13,10 @@
 * [Art Walk Central](08222017/ArtWalkCentral.md)
 * [Laidley Building Ribbon Cutting](08222017/laidleybuilding.md)
 * [Keep Joe Passalacqua's Mother in your thoughts](08222017/pasalacqua.md)
+
+## Departments
+
+* [Calendar of Events](Calendar.md)
+* 
+
 
