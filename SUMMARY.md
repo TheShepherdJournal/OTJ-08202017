@@ -4,7 +4,7 @@
 * [Google Docs](editgoogle.md)
 
 ## August 25, 2017
-
+* [Calendar](Calendar.md)
 ## Archive
 
 * [Just Be Here](justbeheremd.md)
