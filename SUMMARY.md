@@ -1,4 +1,3 @@
-![](assets/kjano-pulse-300px.png)
 # Contents
 
 * [Cover](README.md)
