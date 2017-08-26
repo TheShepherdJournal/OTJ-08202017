@@ -1,3 +1,5 @@
+
+![](/assets/kjano-pulse-300px.png)
 # The Shepherd Pulse
 
 ## August 26, 2017
