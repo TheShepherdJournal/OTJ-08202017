@@ -6,7 +6,7 @@ permalink: /shepherd-community-farm-to-table-news/
 source-id: 18HP4L4zTY32pQem-K0gNIAt4xJz933Q36GmPJF9xQV8
 published: true
 ---
-![image alt text]({{ site.url }}/public/RH34uSgSfpJTJXbcoSmajQ_img_0.jpg)
+![image alt text](/public/RH34uSgSfpJTJXbcoSmajQ_img_0.jpg)
 
 *Shown here volunteers of the St. Vincent De Paul Food Pantry in Shepherd receive a $1000 donation from the organizers of the recent Shepherd Community Farm to Table Dinner. First Row: Janet Leiferman, Karen Butler, Elaine Brickner, Ruthann Meyer, Kathy Shepard. Back Row: Hannah Mollett, Chris Kutz*
 
@@ -20,13 +20,13 @@ Committee organizer Chris Kutz described the dinner as an opportunity to celebra
 
 Event organizers are planning a larger Shepherd Community Farm to Table Dinner for 2018. Interested parties are encouraged to keep an eye on the Facebook page of Shepherd Community Farm to Table Dinner.
 
-![image alt text]({{ site.url }}/public/RH34uSgSfpJTJXbcoSmajQ_img_1.png)
+![image alt text](/public/RH34uSgSfpJTJXbcoSmajQ_img_1.png)
 
 *Guests prepare to enjoy a sumptuous meal in the middle of Shepherd's Second Street at the Shepherd Community Farm to Table Dinner.*
 
-![image alt text]({{ site.url }}/public/RH34uSgSfpJTJXbcoSmajQ_img_2.jpg)
+![image alt text](/public/RH34uSgSfpJTJXbcoSmajQ_img_2.jpg)
 
-![image alt text]({{ site.url }}/public/RH34uSgSfpJTJXbcoSmajQ_img_3.jpg)
+![image alt text](/public/RH34uSgSfpJTJXbcoSmajQ_img_3.jpg)
 
-![image alt text]({{ site.url }}/public/RH34uSgSfpJTJXbcoSmajQ_img_4.jpg)
+![image alt text](/public/RH34uSgSfpJTJXbcoSmajQ_img_4.jpg)
 
