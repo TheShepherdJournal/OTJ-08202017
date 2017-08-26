@@ -3,7 +3,7 @@
 * [Cover](README.md)
 * [Google Docs](editgoogle.md)
 
-## August 25, 2017
+## August 25 2017
 * [Calendar](Calendar.md)
 
 ## Archive
