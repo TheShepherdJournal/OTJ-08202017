@@ -5,8 +5,8 @@
 
 ## August 25, 2017
 * [Calendar](Calendar.md)
-## Archive
 
+## Archive
 * [Just Be Here](justbeheremd.md)
 * [Enough is Enough](enoughisenough.md)
 * [Old 27 Tour](Old27Tour.md)
