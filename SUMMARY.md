@@ -18,6 +18,5 @@
 ## Departments
 
 * [Calendar of Events](Calendar.md)
-* 
 
 
