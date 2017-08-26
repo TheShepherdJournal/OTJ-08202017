@@ -28,7 +28,7 @@ Event organizers are planning a larger Shepherd Community Farm to Table Dinner f
 
 ![image alt text]({{ site.url }}/public/RH34uSgSfpJTJXbcoSmajQ_img_3.jpg)
 
-![image alt text]({{ site.url }}/public/RH34uSgSfpJTJXbcoSmajQ_img_4.png)
+![image alt text]({{ site.url }}/public/RH34uSgSfpJTJXbcoSmajQ_img_4.jpg)
 
-![image alt text]({{ site.url }}/public/RH34uSgSfpJTJXbcoSmajQ_img_5.jpg)
+![image alt text]({{ site.url }}/public/RH34uSgSfpJTJXbcoSmajQ_img_5.png)
 
