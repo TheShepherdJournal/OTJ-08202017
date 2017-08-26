@@ -1,7 +1,7 @@
 # Contents
 
 * [Cover](README.md)
-* [Google Docs](editgoogle.md)
+* [Edit Google Docs](editgoogle.md)
 
 ## August 25 2017
 * [Shepherd Community Farm to Table News](08252017/2017-08-25-Shepherd-Community-Farm-to-Table-News.md)
