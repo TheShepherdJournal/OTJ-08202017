@@ -6,6 +6,7 @@
 ## Top Stories
 
 * [Shepherd Community Farm to Table News](08252017/2017-08-25-Shepherd-Community-Farm-to-Table-News.md)
+* [1st Day of School](08272017/2017-08-27-1stDayofSchool.md)
 
 ## Community Newsfeed
 
