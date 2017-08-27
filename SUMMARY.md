@@ -7,6 +7,7 @@
 * [SHS Class of 1960 Celebrated 57 Year Reunion](08272017/2017-08-27-Class-of-1960-57-year-Class-Reunion.md)
 * [Shepherd Community Farm to Table News](08252017/2017-08-25-Shepherd-Community-Farm-to-Table-News.md)
 * [1st Day of School](08272017/2017-08-27-1stDayofSchool.md)
+* [Ribbon Cutting Ceremony held for Laidley Building](08272017/2017-08-27-Ribbon-Cutting-ceremony-held-for-Laidley-Building.md)
 
 ## Community Newsfeed
 
