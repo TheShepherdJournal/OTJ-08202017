@@ -46,3 +46,5 @@ The goal was to reinforce the idea that students are taking college courses by t
 
 ![image alt text]({{ site.url }}/public/axhlfh44bQrknHLJ4fGrHw_img_1.jpg)![image alt text]({{ site.url }}/public/axhlfh44bQrknHLJ4fGrHw_img_2.jpg)![image alt text]({{ site.url }}/public/axhlfh44bQrknHLJ4fGrHw_img_3.jpg)![image alt text]({{ site.url }}/public/axhlfh44bQrknHLJ4fGrHw_img_4.jpg)![image alt text]({{ site.url }}/public/axhlfh44bQrknHLJ4fGrHw_img_5.jpg)![image alt text]({{ site.url }}/public/axhlfh44bQrknHLJ4fGrHw_img_6.jpg)![image alt text]({{ site.url }}/public/axhlfh44bQrknHLJ4fGrHw_img_7.jpg)![image alt text]({{ site.url }}/public/axhlfh44bQrknHLJ4fGrHw_img_8.jpg)![image alt text]({{ site.url }}/public/axhlfh44bQrknHLJ4fGrHw_img_9.jpg)
 
+[Edit in Google Drive](https://docs.google.com/document/d/1ZqITWHxIi96QtUtIqz_xNr5f5FiGTh2jS3NpRZ2merc/edit?usp=sharing)
+
