@@ -16,8 +16,6 @@
 
 ### Archive
 
-### Community Newsfeed
-
 * [Just Be Here](justbeheremd.md)
 * [Enough is Enough](enoughisenough.md)
 * [Old 27 Tour](Old27Tour.md)
