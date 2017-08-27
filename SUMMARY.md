@@ -9,12 +9,12 @@
 
 ## Community Newsfeed
 
-### August 27 2017
+## August 27 2017
 
 * [Former Students](08272017/2017-08-27-FormerStudents.md)
 * [Pifer Wedding](08272017/2017-08-27-PiferWedding.md)
 
-### Archive
+## Archive
 
 * [Just Be Here](justbeheremd.md)
 * [Enough is Enough](enoughisenough.md)
