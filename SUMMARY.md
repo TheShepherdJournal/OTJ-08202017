@@ -3,12 +3,22 @@
 * [Cover](README.md)
 * [Edit Google Docs](editgoogle.md)
 
-## August 27 2017
+## Top Stories
 
-## August 25 2017
 * [Shepherd Community Farm to Table News](08252017/2017-08-25-Shepherd-Community-Farm-to-Table-News.md)
 
 ## Community Newsfeed
+
+### August 27 2017
+
+### 
+
+
+
+### Archive
+
+### Community Newsfeed
+
 * [Just Be Here](justbeheremd.md)
 * [Enough is Enough](enoughisenough.md)
 * [Old 27 Tour](Old27Tour.md)
@@ -19,5 +29,6 @@
 ## Departments
 
 * [Calendar of Events](Calendar.md)
+
 
 
