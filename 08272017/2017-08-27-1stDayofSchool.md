@@ -12,3 +12,5 @@ And, I wanted to give a shout out to all of the parents who will be coaching, su
 
 Parents, consider tagging first day of school photos with #spsfirstday to help others find your photo.
 
+[Edit in Google Drive](https://docs.google.com/document/d/1vlmJzxUdaPZ9tlAV2AzEHhHuPEEF9oz2Bv3La_-I5Ek/edit?usp=sharing)
+
