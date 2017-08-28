@@ -24,9 +24,7 @@
 * [Art Walk Central](08222017/ArtWalkCentral.md)
 * [Laidley Building Ribbon Cutting](08222017/laidleybuilding.md)
 
-## Departments
-
-Schedule of Events
+## Schedule of Events
 * [September 2017](08272017/2017-08-27-ShepherdCalendarofEvents.md)
 
 
