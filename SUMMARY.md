@@ -25,7 +25,9 @@
 * [Laidley Building Ribbon Cutting](08222017/laidleybuilding.md)
 
 ## Schedule of Events
+* [August 2017](08272017/2017-08-28-August2017-ShepherdCalendarofEvents.md)
 * [September 2017](08272017/2017-08-27-ShepherdCalendarofEvents.md)
+
 
 
 
