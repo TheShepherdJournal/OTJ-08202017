@@ -26,7 +26,8 @@
 
 ## Departments
 
-* [Calendar of Events](Calendar.md)
+Schedule of Events
+* [September 2017](08272017/2017-08-27-ShepherdCalendarofEvents.md)
 
 
 
