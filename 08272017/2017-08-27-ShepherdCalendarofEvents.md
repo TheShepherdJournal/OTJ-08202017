@@ -49,14 +49,3 @@ Thu 7 PM by Shepherd Community Friends of the Library Shepherd Community Library
 
 Shepherd
 
-## October
-
-* * *
-
-
-### OCT 28
-
-#### Women's Self Defense Seminar
-
-Sat 9 AM · by Shepherd Police Department Shepherd High School Shepherd
-
