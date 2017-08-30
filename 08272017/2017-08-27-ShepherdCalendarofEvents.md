@@ -1,5 +1,5 @@
 ---
-title: ShepherdCalendarofEvents
+title: September2017-ShepherdCalendarofEvents
 layout: post
 author: 32bpwr3
 permalink: /shepherdcalendarofevents/
